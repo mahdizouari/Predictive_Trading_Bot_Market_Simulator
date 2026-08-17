@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "synthetic_financial_market"
+		},
+		{
+			"name": "financial_market_server",
+			"path": "financial_market_server"
+		}
+	],
+	"settings": {
+		"python-envs.defaultEnvManager": "ms-python.python:system"
+	}
+}
